@@ -8,7 +8,7 @@ This script takes the gamelist.xml generated files by the Universal XML-Scraper 
 		<name>Game name (Europe)</name>
 
 WINDOWS: place the file on \\raspberry\configs\all\emulationstation\gamelists\
- run the script via python rm.py
+then run the script via python rm.py
 		  
 RETROPIE: place the file in /home/pi/.emulationstation/gamelists/
- run the script via python rm.py
+then run the script via python rm.py
